@@ -128,10 +128,6 @@ ORDER BY current_month;
 
 ---
 
-## 🚀 How to Run locally
-1. Clone this repository down to your computer.
-2. Fire up your preferred workspace environment (MySQL Workbench, pgAdmin, PopSQL).
-3. Execute the `schema_and_queries.sql` file script package to instantly populate the structures, insert mock transactional logs, and run analytical queries.
 
 
 
