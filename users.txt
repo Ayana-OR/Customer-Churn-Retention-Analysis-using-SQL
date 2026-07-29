@@ -1,0 +1,50 @@
+1,2026-03-03,Netherlands,Organic Search
+2,2026-01-04,UK,Affiliate
+3,2026-03-29,Netherlands,Paid Ads
+4,2026-03-24,Germany,Paid Ads
+5,2026-03-17,Netherlands,Paid Ads
+6,2026-01-02,USA,Social Media
+7,2026-01-07,Germany,Affiliate
+8,2026-02-14,France,Organic Search
+9,2026-01-16,France,Organic Search
+10,2026-01-20,USA,Email
+11,2026-03-24,USA,Organic Search
+12,2026-01-02,Germany,Referral
+13,2026-02-18,Germany,Affiliate
+14,2026-01-15,USA,Referral
+15,2026-03-07,UK,Email
+16,2026-03-21,Germany,Paid Ads
+17,2026-01-19,UK,Affiliate
+18,2026-02-09,Canada,Organic Search
+19,2026-02-05,USA,Email
+20,2026-01-08,UK,Affiliate
+21,2026-02-23,Canada,Paid Ads
+22,2026-02-17,France,Referral
+23,2026-01-26,Canada,Paid Ads
+24,2026-01-20,UK,Email
+25,2026-03-02,USA,Affiliate
+26,2026-01-07,UK,Paid Ads
+27,2026-03-15,USA,Social Media
+28,2026-03-19,Germany,Social Media
+29,2026-02-14,Canada,Social Media
+30,2026-02-27,Germany,Referral
+31,2026-02-15,Canada,Referral
+32,2026-02-14,France,Referral
+33,2026-01-14,France,Organic Search
+34,2026-01-01,France,Email
+35,2026-02-12,UK,Organic Search
+36,2026-03-13,Canada,Organic Search
+37,2026-03-23,Netherlands,Organic Search
+38,2026-01-06,Canada,Organic Search
+39,2026-01-14,UK,Email
+40,2026-02-04,France,Social Media
+41,2026-03-15,UK,Email
+42,2026-02-18,Canada,Email
+43,2026-03-28,USA,Social Media
+44,2026-03-20,UK,Paid Ads
+45,2026-01-15,Netherlands,Referral
+46,2026-02-06,France,Organic Search
+47,2026-03-22,USA,Organic Search
+48,2026-01-14,UK,Paid Ads
+49,2026-02-05,Germany,Paid Ads
+50,2026-01-13,USA,Paid Ads
